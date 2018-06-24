@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1529852898 source:c:\users\knigh\desktop\text-based rougelike\main.cpp
+	<iostream>
+	<fstream>
+	"Player.h"
+	"Window.h"
+	"Tile.h"
+
+1527174602 source:c:\users\knigh\desktop\text-based rougelike\src\window.cpp
+	"Window.h"
+	<iostream>
+
+1529319422 c:\users\knigh\desktop\text-based rougelike\include\window.h
+
+1529769626 c:\users\knigh\desktop\text-based rougelike\include\player.h
+	<string>
+
+1529769706 source:c:\users\knigh\desktop\text-based rougelike\src\player.cpp
+	<iostream>
+	"Player.h"
+
+1527257872 c:\users\knigh\desktop\text-based rougelike\include\world.h
+
+1527257106 source:c:\users\knigh\desktop\text-based rougelike\src\world.cpp
+	"World.h"
+
+1529769724 source:c:\users\knigh\desktop\text-based rougelike\src\tile.cpp
+	<iostream>
+	"Tile.h"
+	"Random.h"
+
+1529484845 c:\users\knigh\desktop\text-based rougelike\include\tile.h
+	"Player.h"
+
+1529319537 c:\users\knigh\desktop\text-based rougelike\include\random.h
+
+1529320747 source:c:\users\knigh\desktop\text-based rougelike\src\random.cpp
+	<ctime>
+	<cstdlib>
+	"Random.h"
+
